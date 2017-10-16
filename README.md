@@ -1,5 +1,8 @@
 # Sevilla-Tei
 
+Licencia:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
 Enlaces:
 
 A Gentle Introduction to XML:
