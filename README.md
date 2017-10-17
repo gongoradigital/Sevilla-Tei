@@ -1,4 +1,4 @@
-# Sevilla-Tei
+# Tei
 
 Licencia:
 https://creativecommons.org/licenses/by-nc-nd/4.0/
@@ -11,8 +11,11 @@ http://www.tei-c.org/release/doc/tei-p5-doc/es/html/SG.html
 TEI Guidelines
 http://www.tei-c.org/release/doc/tei-p5-doc/es/html/
 
-Teinte
+Teinte (TEI book)
 https://oeuvres.github.io/Teinte/teinte.html
+
+Teinte (install)
+https://github.com/gongoradigital/Teinte
 
 TEI Tools
 http://www.tei-c.org/Tools/
